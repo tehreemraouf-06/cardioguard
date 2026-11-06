@@ -1,6 +1,5 @@
 # 🫀 CardioGuard: hERG Cardiotoxicity Prediction
 
-**Live app:** [PASTE YOUR STREAMLIT LINK HERE]
 
 CardioGuard predicts whether a small molecule is likely to block the hERG potassium channel, and explains each prediction with SHAP.
 
